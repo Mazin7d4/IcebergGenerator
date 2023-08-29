@@ -10,6 +10,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Load selected photo
     // Implementing this functionality depends on how you want to allow users to select photos (e.g., file input or predefined options).
+    // test
 
     // Add text to the photo
     addTextButton.addEventListener('click', function () {
